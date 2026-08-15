@@ -32,4 +32,4 @@ O objetivo foi entender na prática como funciona uma rede dividida nas camadas 
 **Ferramenta:** Cisco Packet Tracer
 ## Topologia
 
-![Topologia da rede](Topologia Rede Hierarquicas.png)
+![Topologia da rede](topologia.png)
